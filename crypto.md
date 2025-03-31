@@ -1,5 +1,3 @@
-In the context of the **Cryptography module** for your cyber competition, where you're dealing with cryptographic techniques, breaking ciphers, analyzing encrypted files, and securing communications, the following tools are commonly used. I'll provide you with a detailed description of how to use each tool to help you tackle tasks like decrypting files, analyzing traffic, and working with web-based protocols.
-
 ### 1. **Hashing and Hash Cracking Tools**
    These tools are essential for generating and cracking hashes that may be part of encrypted files or messages.
 
